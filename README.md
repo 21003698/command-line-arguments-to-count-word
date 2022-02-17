@@ -38,7 +38,7 @@ print("Number of words in a file:",count)
 ~~~
 
 ### OUTPUT:
-![](pro.png)
+![](sandy.png)
 
 
 
