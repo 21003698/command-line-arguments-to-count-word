@@ -39,7 +39,7 @@ print("Number of words in a file:",count)
 
 ### OUTPUT:
 ![](sunny.png)
-![](san.png)
+![](pra.png)
 
 
 
