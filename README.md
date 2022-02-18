@@ -8,7 +8,8 @@ Anaconda - Python 3.7
 ### Step 1:
 import sys
 
-### Step 2: Assign a variable count =0
+### Step 2:
+Assign a variable count =0
 
  
 ### Step 3: 
